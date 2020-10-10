@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/MannyMoses/FitnessTracker/issues"
   },
-  "homepage": "https://github.com/MannyMoses/FitnessTracker#readme"
+  "homepage": "https://github.com/MannyMoses/FitnessTracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongod": "^2.0.0",
+    "mongoose": "^5.10.9",
+    "morgan": "^1.10.0"
+  }
 }
